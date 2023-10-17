@@ -1,0 +1,13 @@
+.WeatherCardWrapper {
+    border: 1px solid black;
+}
+
+.WeatherCardImage {
+    height: auto;
+    width: 120px;
+}
+
+.WeatherCardImage scg {
+    height: auto;
+    width: 100%;
+}
